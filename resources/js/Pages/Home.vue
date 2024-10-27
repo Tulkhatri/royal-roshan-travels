@@ -11,12 +11,12 @@ import ContactUs from "./ContactUs.vue";
     <Swiper />
     
     <div class="justify-center items-center md:flex mt-20 mx-5 md:mx-56">
-    <div class="leftsection bg-[#9edafb] py-14 pl-10 pr-20 basis-2/3">
+    <div class="leftsection bg-[#9edafb] md:py-14 p-5 md:pl-10 md:pr-20 basis-2/3">
         <h1 class="text-3xl font-medium">About Us</h1>
-        <p class="mt-10">Welcome to Royal Roshan Travels & Tours, where your dream journeys come to life! We are a leading 
+        <p class="mt-5 md:mt-10 text-justify">Welcome to Royal Roshan Travels & Tours, where your dream journeys come to life! We are a leading 
             travel and tour company dedicated to providing unforgettable experiences, whether you're planning a
              serene getaway, an adventurous excursion, or a cultural exploration.</p>
-        <p class="mt-5">
+        <p class="mt-5 text-justify">
             With years of experience in the industry, our team of travel experts is passionate about curating personalized 
             trips tailored to your unique preferences and needs. We offer a wide range of services, including custom vacation
              packages, group tours, corporate travel solutions, and specialized adventure trips.
