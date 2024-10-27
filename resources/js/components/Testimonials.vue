@@ -10,12 +10,12 @@
         @slideChange="onSlideChange"
         class="swiper-testimonials  bg-theme-red"
     >
-        <swiper-slide class="testimonials pt-20 px-20 pb-14">
+        <swiper-slide class="testimonials p-5 md:pt-20 md:px-20 md:pb-14">
             <font-awesome-icon
                 :icon="['fas', 'quote-left']"
                 class="text-white text-4xl"
             />
-            <p class="text-white mt-10">
+            <p class="text-white mt-10 text-justify">
                 An unforgettable experience! Royal Roshan Travels & Tours made our dream vacation seamless, from booking flights to planning every detail of our tour. Their team went above and beyond to ensure everything was perfect. Highly recommend for both ticketing and tour packages!
             </p>
             <div class="image-wrapper mt-8 flex items-center gap-5">
@@ -26,7 +26,7 @@
                 </div>
             </div>
         </swiper-slide>
-        <swiper-slide class="testimonials pt-20 px-20 pb-14">
+        <swiper-slide class="testimonials  p-5 md:pt-20 md:px-20 md:pb-14">
             <font-awesome-icon
                 :icon="['fas', 'quote-left']"
                 class="text-white text-4xl"
@@ -42,7 +42,7 @@
                 </div>
             </div>
         </swiper-slide>
-        <swiper-slide class="testimonials pt-20 px-20 pb-14">
+        <swiper-slide class="testimonials  p-5 md:pt-20 md:px-20 md:pb-14">
             <font-awesome-icon
                 :icon="['fas', 'quote-left']"
                 class="text-white text-4xl"
