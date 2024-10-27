@@ -11,9 +11,9 @@
         class="swiper-slide"
     >
         <swiper-slide class="relative">
-            <img src="../../assets/images/swiper/slider.jpg" alt="" />
+            <img src="../../assets/images/swiper/slider.jpg" alt="" class="w-full h-[35vh] md:h-[80vh]" />
             <div class="absolute inset-0 bg-sky-600/30"></div>
-            <div class="absolute bottom-32 left-56 text-white">
+            <div class="absolute bottom-5 md:bottom-32 left-56 text-white">
                 <!-- <h2 class="text-3xl">Support when you need it</h2>
                 <p class="lg my-3">port when you need it contact us</p> -->
                 <a href="javascript:void(0);" @click="scrollToSection"
@@ -24,9 +24,9 @@
             </div>
         </swiper-slide>
         <swiper-slide class="relative">
-            <img src="../../assets/images/swiper/slider1.png" alt="" />
+            <img src="../../assets/images/swiper/slider1.png" alt="" class="w-full h-[35vh] md:h-[80vh]" />
             <div class="absolute inset-0 bg-sky-600/30"></div>
-            <div class="absolute bottom-32 left-56 text-white">
+            <div class="absolute bottom-5 md:bottom-32 left-56 text-white">
                 <!-- <h2 class="text-3xl">Support when you need it</h2>
                 <p class="lg my-3">port when you need it contact us</p> -->
                  <a href="javascript:void(0);" @click="scrollToSection"
@@ -37,9 +37,9 @@
             </div>
         </swiper-slide>
         <swiper-slide class="swiper-slide relative">
-            <img src="../../assets/images/swiper/slider2.jpg" alt="" />
+            <img src="../../assets/images/swiper/slider2.jpg" alt="" class="w-full h-[35vh] md:h-[80vh]" />
             <div class="absolute inset-0 bg-sky-600/30"></div>
-            <div class="absolute bottom-32 left-56 text-white">
+            <div class="absolute bottom-5 md:bottom-32 left-56 text-white">
                 <!-- <h2 class="text-3xl">Support when you need it</h2>
                 <p class="lg my-3">port when you need it contact us</p> -->
                  <a href="javascript:void(0);" @click="scrollToSection"
@@ -50,9 +50,9 @@
             </div>
         </swiper-slide>
         <swiper-slide class="swiper-slide relative">
-            <img src="../../assets/images/swiper/slider3.jpg" alt="" />
+            <img src="../../assets/images/swiper/slider3.jpg" alt="" class="w-full h-[35vh] md:h-[80vh]" />
             <div class="absolute inset-0 bg-sky-600/30"></div>
-            <div class="absolute bottom-32 left-56 text-white">
+            <div class="absolute bottom-5 md:bottom-32 left-56 text-white">
                 <!-- <h2 class="text-3xl">Support when you need it</h2>
                 <p class="lg my-3">port when you need it contact us</p> -->
                  <a href="javascript:void(0);" @click="scrollToSection"
@@ -64,9 +64,9 @@
         </swiper-slide>
 
         <swiper-slide class="swiper-slide relative">
-            <img src="../../assets/images/swiper/slider4.jpg" alt="" />
+            <img src="../../assets/images/swiper/slider4.jpg" alt="" class="w-full h-[35vh] md:h-[80vh]" />
             <div class="absolute inset-0 bg-sky-600/30"></div>
-            <div class="absolute bottom-32 left-56 text-white">
+            <div class="absolute bottom-5 md:bottom-32 left-56 text-white">
                 <!-- <h2 class="text-3xl">Support when you need it</h2>
                 <p class="lg my-3">port when you need it contact us</p> -->
                  <a href="javascript:void(0);" @click="scrollToSection"
@@ -77,9 +77,9 @@
             </div>
         </swiper-slide>
         <swiper-slide class="swiper-slide relative">
-            <img src="../../assets/images/swiper/slider5.png" alt="" />
+            <img src="../../assets/images/swiper/slider5.png" alt="" class="w-full h-[35vh] md:h-[80vh]" />
             <div class="absolute inset-0 bg-sky-600/30"></div>
-            <div class="absolute bottom-32 left-56 text-white">
+            <div class="absolute bottom-5 md:bottom-32 left-56 text-white">
                 <!-- <h2 class="text-3xl">Support when you need it</h2>
                 <p class="lg my-3">port when you need it contact us</p> -->
                  <a href="javascript:void(0);" @click="scrollToSection"
@@ -90,9 +90,9 @@
             </div>
         </swiper-slide>
         <swiper-slide class="swiper-slide relative">
-            <img src="../../assets/images/swiper/slider6.jpg" alt="" />
+            <img src="../../assets/images/swiper/slider6.jpg" alt="" class="w-full h-[35vh] md:h-[80vh]" />
             <div class="absolute inset-0 bg-sky-600/30"></div>
-            <div class="absolute bottom-32 left-56 text-white">
+            <div class="absolute bottom-5 md:bottom-32 left-56 text-white">
                 <!-- <h2 class="text-3xl">Support when you need it</h2>
                 <p class="lg my-3">port when you need it contact us</p> -->
                  <a href="javascript:void(0);" @click="scrollToSection"
