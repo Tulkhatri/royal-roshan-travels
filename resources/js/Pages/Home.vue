@@ -23,7 +23,7 @@ import ContactUs from "./ContactUs.vue";
         </p>
     </div>
 
-    <div class="relative bg-theme-red right-section basis-1/3 w-80 h-96 md:mt-20 mt-5 m-auto">
+    <div class="relative bg-theme-red right-section ml-8 md:ml-0 basis-1/3 w-80 h-96 md:mt-20 mt-5 m-auto">
         <div class="absolute inset-0  image-wrapper w-full h-full top-10 -left-10">
             <img class="w-full h-full object-cover" src="../../assets/images/roshan.jpeg" alt="">
         </div>

@@ -44,14 +44,14 @@ function scrollToSection() {
                 <div class="right-button flex">
                 <div class="custom-slider-top-button bg-white text-[#1F71B9] m-4 px-6 py-1.5 rounded-3xl">
                     <!-- <a href="#contactus">Book Now</a> -->
-                    <a href="javascript:void(0);" @click="scrollToSection">Book Now</a>
+                    <a href="javascript:void(0);" @click="scrollToSection" class="text-nowrap">Book Now</a>
                 </div>
             </div>
-                <div class="flex justify-start items-center">
+                <div class="flex justify-center items-center">
                     <font-awesome-icon
                         :icon="['far', 'envelope']"
-                        class="mx-3 cursor-pointer bg-theme-red text-white p-1.5 rounded-md"
-                    /><span>royalroshantravels@gmail.com</span>
+                        class="mx-3 cursor-pointer bg-theme-red text-white p-1.5 rounded-md hidden md:block"
+                    /><span class="hidden md:block">royalroshantravels@gmail.com</span>
                 </div>
                 <div class="flex justify-start items-center">
                     <font-awesome-icon
@@ -60,12 +60,6 @@ function scrollToSection() {
                     /><span>9841787837</span>
                 </div>
             </div>
-        </nav>
-    </header>
-
-    <header class="bg-theme-red pr-56 pl-52 sticky top-0 z-20">
-        <nav class="flex justify-between items-center">
-           
         </nav>
     </header>
 </template>
