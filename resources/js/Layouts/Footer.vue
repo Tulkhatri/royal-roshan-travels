@@ -15,7 +15,8 @@
                 </div>
                 <div class="icon-text my-4">
                     <font-awesome-icon :icon="['fas', 'phone']" class="mr-3" />
-                    <span>9841787837</span>
+                    <span>9841787837,</span>
+                    <span> 9815886688</span>
                 </div>
                 <div class="icon-text">
                     <font-awesome-icon

@@ -47,17 +47,20 @@ function scrollToSection() {
                     <a href="javascript:void(0);" @click="scrollToSection" class="text-nowrap">Book Now</a>
                 </div>
             </div>
+            <div class="flex justify-start items-center">
+                    <font-awesome-icon
+                        :icon="['fas', 'phone-volume']"
+                        class="mx-3 cursor-pointer bg-theme-red text-white p-1.5 rounded-md"/>
+                        <div class="numper-wrapper">
+                            <p>9841787837</p>
+                            <p>9815886688</p>
+                        </div>
+                </div>
                 <div class="flex justify-center items-center">
                     <font-awesome-icon
                         :icon="['far', 'envelope']"
                         class="mx-3 cursor-pointer bg-theme-red text-white p-1.5 rounded-md hidden md:block"
                     /><span class="hidden md:block">royalroshantravels@gmail.com</span>
-                </div>
-                <div class="flex justify-start items-center">
-                    <font-awesome-icon
-                        :icon="['fas', 'phone-volume']"
-                        class="mx-3 cursor-pointer bg-theme-red text-white p-1.5 rounded-md"
-                    /><span>9841787837</span>
                 </div>
             </div>
         </nav>
