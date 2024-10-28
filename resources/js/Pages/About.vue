@@ -43,7 +43,7 @@
                     <div class="image-wrapper">
                         <img
                             class="h-56 md:h-auto w-full  object-cover"
-                            src="../../assets/images/roshan1.jpeg"
+                            src="../../assets/images/roshan1.png"
                             alt=""
                         />
                     </div>
